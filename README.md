@@ -24,7 +24,7 @@ Welcome to pathfinding! This is a grid pathfinding project that employs uniform 
 
 ```bash
 # Running the Project
-git clone https://github.com/chenterry85/pathfinding.git
+git clone https://github.com/0sheetalkumari0/Path_Visualizar.git
 
 # Compile file
 javac Window.java
